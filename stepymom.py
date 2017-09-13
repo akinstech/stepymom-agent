@@ -1,3 +1,5 @@
+# StePyMom - Network Monitor
+
 import json
 import os
 import platform
